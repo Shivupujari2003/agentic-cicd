@@ -1,0 +1,17 @@
+# Core API and UI
+fastapi
+uvicorn
+sqlmodel
+streamlit
+requests
+
+# Database Support
+psycopg2-binary
+python-dotenv
+
+# AI Email Agent Dependencies
+openai>=1.0.0
+smtplib2
+
+# Development
+pytest
